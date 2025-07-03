@@ -13,12 +13,6 @@ FocusMate is a smart study session scheduler and Pomodoro-style timer designed t
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [Firebase Setup](#firebase-setup)
-- [Project Structure](#project-structure)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ---
 
