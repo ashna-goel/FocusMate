@@ -42,7 +42,6 @@ The project is being built as part of an internship and is a beginner-friendly R
 ## Technologies Used
 
 - React (Frontend framework)
-- React Router (Client-side routing)
 - Tailwind CSS (Styling)
 - Firebase Authentication (User login)
 - Firebase Firestore/Realtime Database (Planned data storage)
