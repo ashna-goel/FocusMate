@@ -1,7 +1,4 @@
 # FocusMate
-Smart Study Scheduler &amp; Focus Assistant
-
-# FocusMate
 
 FocusMate is a smart study session scheduler and Pomodoro-style timer designed to help students and professionals structure their work, stay accountable, and track progress. The app combines session scheduling, time tracking, light gamification, and self-awareness tools to promote better focus and productivity.
 
